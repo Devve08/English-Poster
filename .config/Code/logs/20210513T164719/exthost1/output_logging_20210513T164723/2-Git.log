@@ -1,0 +1,126 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git check-ignore -v -z --stdin
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git check-ignore -v -z --stdin
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/8-advanced-selectors/index.html
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/index.html
+> git cat-file -s 24f5ca00b5b21b12e7614c430704f0cb8cb5840c
+> git show --textconv :part-1/8-advanced-selectors/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/8-advanced-selectors/styles.css
+> git cat-file -s d35c3c371aa04aaa6da7c46dd9a93247391c53b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

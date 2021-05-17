@@ -1,0 +1,15 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run', '8' ]
+2 info using npm@6.14.12
+3 info using node@v12.22.1
+4 verbose run-script [ 'pre8', '8', 'post8' ]
+5 info lifecycle html-css-git-exercises@1.0.0~pre8: html-css-git-exercises@1.0.0
+6 info lifecycle html-css-git-exercises@1.0.0~8: html-css-git-exercises@1.0.0
+7 verbose lifecycle html-css-git-exercises@1.0.0~8: unsafe-perm in lifecycle true
+8 verbose lifecycle html-css-git-exercises@1.0.0~8: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+9 verbose lifecycle html-css-git-exercises@1.0.0~8: CWD: /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT
+10 silly lifecycle html-css-git-exercises@1.0.0~8: Args: [ '-c', 'live-server --open=part-1/8-advanced-selectors' ]
+11 timing npm Completed in 1680658ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>

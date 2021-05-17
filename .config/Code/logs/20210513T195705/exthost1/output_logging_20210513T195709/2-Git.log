@@ -1,0 +1,23 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/9-git-branch/styles.css
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/9-git-branch/styles.css
+> git cat-file -s 7a335492735533982a19a62b02adff97ea4f786c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/mhamad/Desktop/html-css-git/HTML-CSS-GIT/part-1/9-git-branch/styles.css
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/green_links refs/remotes/green_links
+> git cat-file -s 7a335492735533982a19a62b02adff97ea4f786c
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :part-1/9-git-branch/styles.css

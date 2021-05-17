@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.poster {
+    height: 85vh;
+    width: 600px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url("images/images.jpeg");
+    background-color: #cccccc;
+    opacity: 0.8;
+    margin: auto;
+    position: relative;
+}
+
+.footer-codi {
+    display: flex;
+    height: 10vh;
+    width: 600px;
+    margin: auto;
+    background-color: #ee5243;
+    opacity: 0.8;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.footer-codi a {
+    
+    text-decoration: none;
+    color: cornsilk;;
+    border-bottom: 2px solid cornsilk;;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 1.5rem;
+
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    height: 100%;
+
+}
+
+.title-poster{
+    background-color: #ee5243;
+    width: 70%;
+    font-size: 2rem;
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+    color: cornsilk;
+    font-family: 'Roboto', sans-serif;
+    height: 20vh;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.9) 0px 4px 12px;
+}
+
+.title-poster h1{
+    margin-top: 20px ;
+    line-height: 80px;
+    text-transform: uppercase;
+}
+
+.content-poster{
+    width: 100%
+}
+
+.content-poster ul {
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    list-style: none;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    line-height: 50px;
+    margin-bottom: 100px ;
+}

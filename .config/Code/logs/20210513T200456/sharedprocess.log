@@ -1,0 +1,13 @@
+[2021-05-13 20:05:30.589] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2021-05-13 20:05:33.441] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory /home/mhamad/.config/Code/CachedExtensionVSIXs/donjayamanne.githistory-0.6.16
+[2021-05-13 20:05:33.629] [sharedprocess] [info] Extracted extension to /home/mhamad/.vscode/extensions/.fdae3fa3-6ba1-48dc-8875-6f22929802e8: donjayamanne.githistory
+[2021-05-13 20:05:33.645] [sharedprocess] [info] Renamed to /home/mhamad/.vscode/extensions/donjayamanne.githistory-0.6.16
+[2021-05-13 20:05:33.650] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2021-05-13 20:05:33.661] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory
+[2021-05-13 20:05:39.317] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-13 20:05:51.116] [sharedprocess] [info] Installing extension: felipecaputo.git-project-manager
+[2021-05-13 20:05:52.985] [sharedprocess] [info] Downloaded extension: felipecaputo.git-project-manager /home/mhamad/.config/Code/CachedExtensionVSIXs/felipecaputo.git-project-manager-1.7.1
+[2021-05-13 20:05:53.232] [sharedprocess] [info] Extracted extension to /home/mhamad/.vscode/extensions/.ae4a4b49-1915-4384-92ae-7995b49e0c0c: felipecaputo.git-project-manager
+[2021-05-13 20:05:53.243] [sharedprocess] [info] Renamed to /home/mhamad/.vscode/extensions/felipecaputo.git-project-manager-1.7.1
+[2021-05-13 20:05:53.246] [sharedprocess] [info] Installation completed. felipecaputo.git-project-manager
+[2021-05-13 20:05:53.253] [sharedprocess] [info] Extensions installed successfully: felipecaputo.git-project-manager
